@@ -1,6 +1,3 @@
-Thanks for downloading this template!
+Template Name: ADARSH Portfolio
+Template URL: https://adarsh-verma1.github.io/Portfolio
 
-Template Name: 
-Template URL: 
-Author: 
-License: 
